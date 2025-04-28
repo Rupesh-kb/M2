@@ -147,8 +147,7 @@ d.	After the loop, print the factorial value.
 ![image](https://github.com/user-attachments/assets/c91e9ea0-84f3-49ab-9cba-ada567031d40)
 
 
-## OUTPUT:
-![image](https://github.com/user-attachments/assets/4bf6eafc-a40a-4219-928a-a25d0b80b181)
+## OUTPUT: ![image](https://github.com/user-attachments/assets/4bf6eafc-a40a-4219-928a-a25d0b80b181)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
