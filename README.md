@@ -12,8 +12,10 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/b5d2f91d-9985-4b0e-97c8-3412d0febff4)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/bf7c32de-420b-4027-8075-4786f06bad1c)
 
 
 
@@ -45,9 +47,11 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/8885169b-b276-4432-867f-7d2fa8e8a466)
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/d7d824bb-5c85-4e9f-be20-293053825ef5)
 
 
 
@@ -74,9 +78,11 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/512bd521-fb50-4943-bc0b-753e3129fb09)
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/fcb4dd70-275d-40c7-85a3-48cec52e05f0)
 
 
 
@@ -106,9 +112,11 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/e41c706b-d27a-403b-bd3d-da8b7b5ae69f)
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/9bbe9ad5-d9b3-4969-85c7-04bf70dec61a)
 
 
 
@@ -136,9 +144,11 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/c91e9ea0-84f3-49ab-9cba-ada567031d40)
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/4bf6eafc-a40a-4219-928a-a25d0b80b181)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
